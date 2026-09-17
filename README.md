@@ -4,8 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/fathima-safiya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Problem+Solver;UI%2FUX+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Problem+Solver;UI%2FUX+Enthusiast;Tech+Explorer" alt="Typing SVG" />
   </a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=4000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=React+|+Node.js+|+TypeScript+|+Tailwind+CSS" alt="Tech Stack text" />
 </p>
 
 ---
@@ -44,25 +47,21 @@ I'm an HNDIT student interested in building practical, user-focused web applicat
 ## 🛠️ Tech Stack
 
 ### Languages
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,python" alt="Programming Languages" />
 </p>
 
 ### Frontend
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="Frontend Technologies" />
 </p>
 
 ### Backend & Database
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,firebase" alt="Backend and Database Technologies" />
 </p>
 
 ### Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools" />
 </p>
@@ -71,38 +70,25 @@ I'm an HNDIT student interested in building practical, user-focused web applicat
 
 ## 🚀 Featured Projects
 
-### 🏢 Hall Booking & Management System
-
+### 🏢 [Hall Booking & Management System](https://github.com/fathima-safiya/HallCamilla-Hall-Booking-Management-System)
 A web-based hall booking system designed to manage reservations, availability, and payments.
-
 **Tech:** React · TypeScript · Tailwind CSS · Firebase · PayHere
-
 * Real-time hall availability and booking management
 * Booking-lock mechanism to help reduce double bookings
 * PayHere integration for advance payments
 * Firebase Authentication and Firestore for user and booking data
 
----
-
-### 🔍 University Lost & Found System
-
+### 🔍 [University Lost & Found System](https://github.com/fathima-safiya/unifind-lost-and-found)
 A university-based platform for reporting, searching, and managing lost and found items.
-
 **Tech:** PHP · MySQL · HTML · CSS · JavaScript
-
 * Lost and found item reporting
 * Search and item management functionality
 * MySQL-based data management
 * Simple interface designed for the university community
 
----
-
-### 🏙️ Kurunegala Civic Platform
-
+### 🏙️ [Kurunegala Civic Platform](https://github.com/fathima-safiya/kurunegala-civic-platform)
 A civic reporting platform designed to help citizens report and track local community issues.
-
 **Tech:** React · PHP · MySQL · Tailwind CSS
-
 * Online reporting of local issues
 * Issue status and resolution tracking
 * Administrative dashboard for managing reports
@@ -111,7 +97,6 @@ A civic reporting platform designed to help citizens report and track local comm
 ---
 
 ## 🌱 Currently Learning
-
 * Advanced React & TypeScript
 * Backend Development
 * Database Design
@@ -125,13 +110,16 @@ A civic reporting platform designed to help citizens report and track local comm
 
 I'm currently focused on strengthening my software development foundation through practical projects.
 
-My learning path:
-
-**Full Stack Development → Cloud Computing → DevOps → Cloud Engineering**
+**My learning path:**
+`Full Stack Development` → `Cloud Computing` → `DevOps` → `Cloud Engineering`
 
 I want to gradually build the skills needed to **design, develop, deploy, and maintain real-world applications**.
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Awesome!" alt="Let's Build Something Awesome" />
+</p>
 
 ## 📊 GitHub Activity
 
@@ -146,5 +134,4 @@ I want to gradually build the skills needed to **design, develop, deploy, and ma
 ---
 
 ### 💡
-
 > Keep learning. Keep building. Keep improving.
