@@ -68,6 +68,14 @@ I'm an HNDIT student interested in building practical, user-focused web applicat
 
 ## 🚀 Featured Projects
 
+### 🌐 [Portfolio Website](https://github.com/fathima-safiya/safiya-portfolio)
+A modern personal portfolio website showcasing my projects, technical skills, and experience.
+**Tech:** React.js · Vite · Tailwind CSS · GSAP
+* Modern UI/UX with dark-themed aesthetic and glassmorphism
+* Cinematic animations powered by GSAP for interactive experiences
+* Custom isometric cube preloader and responsive mobile drawer menu
+* Interactive bento box layout with real-time mouse-tracking effects
+
 ### 🏢 [Hall Booking & Management System](https://github.com/fathima-safiya/HallCamilla-Hall-Booking-Management-System)
 A web-based hall booking system designed to manage reservations, availability, and payments.
 **Tech:** React · TypeScript · Tailwind CSS · Firebase · PayHere
