@@ -1,15 +1,29 @@
-# Hi there 👋, I'm Fathima Safiya
+<h1 align="center">Hi 👋, I'm Fathima Safiya</h1>
 
-**Full Stack Developer | HNDIT Student | Building Modern Web Experiences**
+<h3 align="center">HNDIT Student | Aspiring Full Stack Developer | Building Practical Web Applications</h3>
 
-### 👨‍💻 About Me
-I'm an aspiring Full Stack Developer with a strong interest in building modern, practical, and user-focused software solutions.
-- 🔭 I enjoy turning ideas into real-world projects and continuously improving my software design.
-- 🌱 Currently strengthening my skills in **React, Node.js, and Databases**, while exploring **Cloud Computing**.
-- 🥅 **Long-term Goal:** Master Full Stack Development and specialize in Cloud Engineering.
-- ⚡ **Fun Fact:** Where ideas meet code, creativity, and purpose!
+<p align="center">
+  <a href="https://github.com/fathima-safiya">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Problem+Solver;UI%2FUX+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+  </a>
+</p>
 
-### 🔗 Connect With Me
+---
+
+## 👨‍💻 About Me
+
+I'm an HNDIT student interested in building practical, user-focused web applications and continuously improving my software development skills.
+
+* 💻 Building projects with **React, TypeScript, PHP, JavaScript, and MySQL**
+* 🌱 Currently strengthening my **full-stack development** and backend skills
+* ☁️ Exploring **Cloud Computing** and modern application infrastructure
+* 🧩 Interested in building practical solutions for **real-world problems**
+* 🎯 Long-term goal: grow into a well-rounded software developer and specialize in **Cloud Engineering**
+
+---
+
+## 🔗 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/fathima-safiya-tech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,47 +31,120 @@ I'm an aspiring Full Stack Developer with a strong interest in building modern, 
   <a href="https://safiya-portfolio-tech.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:fathima.safiya.tech@gmail.com" target="_blank">
+  <a href="mailto:fathima.safiya.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/fathima-safiya" target="_blank">
+  <a href="https://github.com/fathima-safiya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### 🛠 Tech Stack
+## 🛠️ Tech Stack
+
+### Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,php,mysql,sqlite,firebase,cs,git,github,vite,vscode,figma" alt="Safiya's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,python" alt="Programming Languages" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="Frontend Technologies" />
+</p>
+
+### Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,firebase" alt="Backend and Database Technologies" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🌐 [Personal Portfolio Website](https://safiya-portfolio-tech.vercel.app)
-A cinematic and modern personal portfolio showcasing my projects, technical skills, and experience with interactive GSAP animations.
-- **Tech Stack:** React, Vite, Tailwind CSS, GSAP
-- **Live Demo:** [https://safiya-portfolio-tech.vercel.app](https://safiya-portfolio-tech.vercel.app)
-- **Repository:** [fathima-safiya/safiya-portfolio](https://github.com/fathima-safiya/safiya-portfolio)
+### 🏢 Hall Booking & Management System
 
-#### 🏛️ [Kurunegala Civic Platform](https://github.com/fathima-safiya/kurunegala-civic-platform)
-A civic engagement platform designed to help the community. 
+A web-based hall booking system designed to manage reservations, availability, and payments.
 
-#### 🔍 UniFind Lost & Found
-A university-based system helping students track and recover lost items efficiently.
+**Tech:** React · TypeScript · Tailwind CSS · Firebase · PayHere
 
-#### 🏢 HallCamilla Booking Management System
-A complete management system for handling hall reservations and booking workflows.
+* Real-time hall availability and booking management
+* Booking-lock mechanism to help reduce double bookings
+* PayHere integration for advance payments
+* Firebase Authentication and Firestore for user and booking data
 
 ---
 
-### 📊 GitHub Stats
+### 🔍 University Lost & Found System
+
+A university-based platform for reporting, searching, and managing lost and found items.
+
+**Tech:** PHP · MySQL · HTML · CSS · JavaScript
+
+* Lost and found item reporting
+* Search and item management functionality
+* MySQL-based data management
+* Simple interface designed for the university community
+
+---
+
+### 🏙️ Kurunegala Civic Platform
+
+A civic reporting platform designed to help citizens report and track local community issues.
+
+**Tech:** React · PHP · MySQL · Tailwind CSS
+
+* Online reporting of local issues
+* Issue status and resolution tracking
+* Administrative dashboard for managing reports
+* Role-based access and authentication
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React & TypeScript
+* Backend Development
+* Database Design
+* REST APIs
+* Cloud Computing
+* Software Architecture
+
+---
+
+## 🎯 What's Next
+
+I'm currently focused on strengthening my software development foundation through practical projects.
+
+My learning path:
+
+**Full Stack Development → Cloud Computing → DevOps → Cloud Engineering**
+
+I want to gradually build the skills needed to **design, develop, deploy, and maintain real-world applications**.
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathima-safiya&show_icons=true&theme=radical" alt="Safiya's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathima-safiya&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fathima-safiya&show_icons=true&theme=transparent" alt="Fathima Safiya's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathima-safiya&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
-💡 *"Where ideas meet code, creativity, and purpose."*
+
+### 💡
+
+> Keep learning. Keep building. Keep improving.
