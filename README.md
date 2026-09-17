@@ -7,13 +7,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Problem+Solver;UI%2FUX+Enthusiast;Tech+Explorer" alt="Typing SVG" />
   </a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=4000&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=React+|+Node.js+|+TypeScript+|+Tailwind+CSS" alt="Tech Stack text" />
-</p>
 
 ---
 
 ## 👨‍💻 About Me
+
 
 I'm an HNDIT student interested in building practical, user-focused web applications and continuously improving my software development skills.
 
