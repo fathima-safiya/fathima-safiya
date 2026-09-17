@@ -118,8 +118,9 @@ I want to gradually build the skills needed to **design, develop, deploy, and ma
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Transforming+Ideas+Into+Digital+Reality" alt="Transforming Ideas Into Digital Reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=Transforming+Ideas+Into+Digital+Reality" alt="Transforming Ideas Into Digital Reality" />
 </p>
+
 
 ## 📊 GitHub Activity
 
