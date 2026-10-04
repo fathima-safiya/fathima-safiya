@@ -101,7 +101,7 @@ A university-based platform for reporting, searching, and managing lost and foun
 
 <br/>
 
-![Uploading website_screenshot_2_under_1MB.jpg…]()
+<img width="1887" height="900" alt="website_screenshot_2_under_1MB" src="https://github.com/user-attachments/assets/165e2e73-bf3b-4102-b0f4-3faaae6be300" />
 
 
 ### 🏙️ [Kurunegala Civic Platform](https://github.com/fathima-safiya/kurunegala-civic-platform)
