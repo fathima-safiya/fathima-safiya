@@ -8,6 +8,19 @@
   <img src="stack.svg?v=2" alt="Tech Stack Orbit" width="800" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="id-dashboard.svg?v=2" alt="ID Dashboard" width="800" />
+</div>
+
+<br/>
+
+## 🏙️ 3D Contribution City
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City" width="800">
+</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 👨‍💻 About Me
