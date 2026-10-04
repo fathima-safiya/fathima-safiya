@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+    <style>
+      .title { font-family: 'Inter', system-ui, sans-serif; font-weight: 800; font-size: 28px; fill: #ffffff; }
+      .desc { font-family: 'Inter', system-ui, sans-serif; font-size: 15px; fill: #cbd5e1; }
+      .bullet { font-family: 'Inter', system-ui, sans-serif; font-size: 14.5px; fill: #e2e8f0; }
+      .icon { font-size: 18px; }
+      
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.8; transform: scale(1); }
+        50% { opacity: 0.2; transform: scale(0.8); }
+      }
+      .panel { animation: float 6s ease-in-out infinite; }
+      .star { animation: pulse 4s ease-in-out infinite; fill: #38bdf8; }
+      .star2 { animation: pulse 3s ease-in-out infinite; fill: #c084fc; }
+    </style>
+  </defs>
+
+  <rect width="800" height="360" fill="transparent" />
+  
+  <!-- Floating background particles -->
+  <circle class="star" cx="100" cy="50" r="2" style="animation-delay: 0s" />
+  <circle class="star2" cx="720" cy="80" r="3" style="animation-delay: 1s" />
+  <circle class="star" cx="60" cy="280" r="1.5" style="animation-delay: 2s" />
+  <circle class="star2" cx="750" cy="320" r="2" style="animation-delay: 0.5s" />
+  <circle class="star" cx="400" cy="20" r="2" style="animation-delay: 1.5s" />
+
+  <g class="panel">
+    <!-- Holographic Card -->
+    <rect x="30" y="20" width="740" height="320" rx="15" fill="url(#bg)" stroke="url(#glow)" stroke-width="2" stroke-opacity="0.6"/>
+    
+    <!-- Top Bar like a window -->
+    <circle cx="55" cy="45" r="6" fill="#ef4444" />
+    <circle cx="75" cy="45" r="6" fill="#eab308" />
+    <circle cx="95" cy="45" r="6" fill="#22c55e" />
+    
+    <text x="120" y="50" class="desc" font-size="12" fill="#64748b">about_me.exe</text>
+
+    <!-- Main Content -->
+    <text x="55" y="100" class="title">👨‍💻 About Me</text>
+    
+    <text x="55" y="135" class="desc">I'm an IT undergraduate specializing in software development, with hands-on</text>
+    <text x="55" y="155" class="desc">experience building practical web applications using modern technologies.</text>
+
+    <!-- Bullets -->
+    <g transform="translate(55, 190)">
+      <text x="0" y="0" class="icon">💻</text>
+      <text x="30" y="0" class="bullet">Working with <tspan fill="#38bdf8" font-weight="bold">React, TypeScript, PHP, Java, MySQL</tspan></text>
+      
+      <text x="0" y="28" class="icon">🔥</text>
+      <text x="30" y="28" class="bullet">Building applications with <tspan fill="#f97316" font-weight="bold">Firebase Firestore &amp; Auth</tspan></text>
+
+      <text x="0" y="56" class="icon">🌱</text>
+      <text x="30" y="56" class="bullet">Strengthening my frontend and backend development skills</text>
+
+      <text x="0" y="84" class="icon">🧩</text>
+      <text x="30" y="84" class="bullet">Interested in solving real-world problems through software</text>
+
+      <text x="0" y="112" class="icon">☁️</text>
+      <text x="30" y="112" class="bullet">Exploring <tspan fill="#a855f7" font-weight="bold">Cloud Computing</tspan> and modern application infrastructure</text>
+
+      <text x="0" y="140" class="icon">🎯</text>
+      <text x="30" y="140" class="bullet">Long-term goal: Become a well-rounded <tspan fill="#10b981" font-weight="bold">Cloud Engineer</tspan></text>
+    </g>
+  </g>
+</svg>
