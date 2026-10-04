@@ -28,6 +28,10 @@
         animation: holo-sweep 4s linear infinite;
       }
     </style>
+    <!-- Clip path to make the avatar a perfect circle -->
+    <clipPath id="avatar-clip">
+      <circle cx="200" cy="130" r="40" />
+    </clipPath>
   </defs>
   
   <rect width="800" height="400" rx="15" fill="url(#bg)" />
@@ -54,11 +58,9 @@
         <rect class="holo-shine" x="120" y="60" width="200" height="300" fill="url(#holo)" transform="rotate(45)" />
       </g>
 
-      <!-- Portrait Placeholder -->
-      <circle cx="200" cy="130" r="40" fill="#2d3748" stroke="#22d3ee" stroke-width="3" />
-      <!-- Small silhouette -->
-      <circle cx="200" cy="120" r="15" fill="#a0aec0" />
-      <path d="M175,160 Q200,140 225,160 L225,180 L175,180 Z" fill="#a0aec0" />
+      <!-- The Avatar Image (using your GitHub Profile Picture) -->
+      <circle cx="200" cy="130" r="42" fill="none" stroke="#22d3ee" stroke-width="3" />
+      <image x="160" y="90" width="80" height="80" href="https://avatars.githubusercontent.com/u/326454727?v=4" clip-path="url(#avatar-clip)" />
 
       <!-- Name and Details -->
       <text x="200" y="195" class="text" font-size="16" font-weight="bold" text-anchor="middle">Fathima Safiya</text>
