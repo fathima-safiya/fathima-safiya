@@ -67,6 +67,9 @@ I'm an IT undergraduate specializing in software development, with hands-on expe
 
 ## 🚀 Featured Projects
 
+<img width="1887" height="895" alt="website_screenshot_1_under_1MB" src="https://github.com/user-attachments/assets/88c947f3-95d7-4974-80e7-3b8f08d81f67" />
+
+
 ### 🏢 [Hall Booking & Management System](https://github.com/fathima-safiya/HallCamilla-Hall-Booking-Management-System)
 
 A web-based hall booking system designed to manage reservations, availability, and advance payments.
@@ -82,6 +85,9 @@ A web-based hall booking system designed to manage reservations, availability, a
 
 <br/>
 
+<img width="1892" height="900" alt="website_screenshot_3_under_1MB" src="https://github.com/user-attachments/assets/0ed7daa4-2e50-47a0-b3d7-81969006d0b9" />
+
+
 ### 🔍 [University Lost & Found System](https://github.com/fathima-safiya/unifind-lost-and-found)
 
 A university-based platform for reporting, searching, and managing lost and found items.
@@ -94,6 +100,9 @@ A university-based platform for reporting, searching, and managing lost and foun
 * User-friendly interface for the university community
 
 <br/>
+
+![Uploading website_screenshot_2_under_1MB.jpg…]()
+
 
 ### 🏙️ [Kurunegala Civic Platform](https://github.com/fathima-safiya/kurunegala-civic-platform)
 
