@@ -150,6 +150,10 @@ I'm focused on strengthening my software development foundation through practica
 </p>
 
 <p align="center">
+  <img src="dist/github-contribution-grid-snake-dark.svg" alt="3D Snake Animation" width="800" />
+</p>
+
+<p align="center">
   <b>Profile Visitors</b><br/>
   <img src="https://komarev.com/ghpvc/?username=fathima-safiya&style=flat-square&color=blue" alt="Profile Visitors" />
 </p>
