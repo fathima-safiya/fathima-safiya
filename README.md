@@ -26,8 +26,9 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=100&lines=IT+Undergraduate+👨‍💻;Full-Stack+Web+Developer+🚀;React+%7C+TypeScript+%7C+PHP+%7C+Java+⚡;Future+Cloud+Engineer+☁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=100&lines=IT+Undergraduate;Full-Stack+Web+Developer;React+%7C+TypeScript+%7C+PHP+%7C+Java;Future+Cloud+Engineer" alt="Typing SVG" />
 </p>
+
 
 
 I'm an IT undergraduate specializing in software development, with hands-on experience building practical web applications using modern frontend, backend, and database technologies.
