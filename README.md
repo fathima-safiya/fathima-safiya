@@ -1,17 +1,11 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./hero.svg?v=1">
-    <img src="./hero.svg?v=1" alt="Fathima Safiya Hero" width="800">
-  </picture>
+  <img src="hero.svg?v=2" alt="Hero Animation" width="800" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./stack.svg?v=1">
-    <img src="./stack.svg?v=1" alt="Tech Stack Orbit" width="800">
-  </picture>
+  <img src="stack.svg?v=2" alt="Tech Stack Animation" width="800" />
 </div>
 
 <br/>
