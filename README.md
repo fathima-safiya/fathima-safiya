@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="id-dashboard.svg?v=5" alt="ID Dashboard" width="800" />
+  <img src="id-dashboard.svg?v=6" alt="ID Dashboard" width="800" />
 </div>
 
 <br/>
