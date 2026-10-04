@@ -151,5 +151,6 @@ I'm focused on strengthening my software development foundation through practica
 
 <p align="center">
   <b>Profile Visitors</b><br/>
-  <img src="https://profile-counter.glitch.me/fathima-safiya/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=fathima-safiya&style=flat-square&color=blue" alt="Profile Visitors" />
 </p>
+
