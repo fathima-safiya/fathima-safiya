@@ -8,13 +8,6 @@
   <img src="stack.svg?v=2" alt="Tech Stack Orbit" width="800" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fathima-safiya&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Fathima Safiya's GitHub Trophies" />
-  </a>
-</p>
-
-
 <br/>
 
 <div align="center">
