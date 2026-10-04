@@ -25,14 +25,8 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT undergraduate specializing in software development, with hands-on experience building practical web applications using modern frontend, backend, and database technologies.
+<p align="center"><img src="about-me.svg?v=1" alt="About Me" width="800" /></p>
 
-* 💻 Working with **React, TypeScript, JavaScript, PHP, Java, and MySQL**
-* 🔥 Building applications with **Firebase Firestore and Authentication**
-* 🌱 Strengthening my **frontend and backend development** skills
-* 🧩 Interested in solving **real-world problems through software**
-* ☁️ Exploring **Cloud Computing and modern application infrastructure**
-* 🎯 Long-term goal: become a **well-rounded software engineer** and specialize in **Cloud Engineering**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
