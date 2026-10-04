@@ -25,7 +25,18 @@
 
 ## 👨‍💻 About Me
 
-<p align="center"><img src="about-me.svg?v=1" alt="About Me" width="800" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=100&lines=IT+Undergraduate+👨‍💻;Full-Stack+Web+Developer+🚀;React+%7C+TypeScript+%7C+PHP+%7C+Java+⚡;Future+Cloud+Engineer+☁️" alt="Typing SVG" />
+</p>
+
+I'm an IT undergraduate specializing in software development, with hands-on experience building practical web applications using modern frontend, backend, and database technologies.
+
+- 💻 Working with **React, TypeScript, JavaScript, PHP, Java, and MySQL**
+- 🔥 Building applications with **Firebase Firestore and Authentication**
+- 🌱 Strengthening my **frontend and backend development** skills
+- 🧩 Interested in solving **real-world problems through software**
+- ☁️ Exploring **Cloud Computing and modern application infrastructure**
+- 🎯 Long-term goal: become a **well-rounded software engineer** and specialize in **Cloud Engineering**
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
